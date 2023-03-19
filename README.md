@@ -7,7 +7,7 @@ Eventually I would like to attach the database to an app that will allow me to h
 My program allows the user to read, write, and modify the database. It will display options for what the user can do and based
 on the user selection and input it will make adjustmets to the database or display the database.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=s14PYIVBKV8)
 
 # Cloud Database
 
